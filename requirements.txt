@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+mysql-connector-python==9.0.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-magic==0.4.27
+opencv-python==4.10.0.84
+numpy==1.26.4
+imutils==0.5.4
+python-dotenv==1.0.1
+python-jose[cryptography]==3.3.0
